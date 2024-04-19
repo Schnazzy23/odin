@@ -7,3 +7,4 @@ In this project I will be demonstrating what I have learned during the [HTML Fou
  - Creating Boilerplate HTML
  - Able to implment links and images into the webpage
  - Use of correct headings
+ - Use of unordered and ordered lists

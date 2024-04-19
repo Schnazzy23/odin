@@ -1,0 +1,5 @@
+A Hello, World program in Python would look like this:
+    print('Hello, World!')
+
+A Hello, World program in JavaScript would look like this:
+    console.log("Hello, World!")
